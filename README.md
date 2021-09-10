@@ -3,6 +3,7 @@ Backend for my React CMS Client
 
 You need to setup configure appsettings.json with the following information: 
 
+```
 {
   "Logging": {
     "LogLevel": {
@@ -22,3 +23,11 @@ You need to setup configure appsettings.json with the following information:
 
   "AllowedHosts": "*"
 }
+```
+
+
+
+###### During the inital database setup a admin user is setuped: 
+
+Username: Admin
+Password: admin123
